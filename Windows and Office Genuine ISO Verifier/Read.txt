@@ -1,0 +1,768 @@
+﻿ -----------------------------------------------------------------------------------------
+  Windows and Office Genuine ISO Verifier v.8.8.9.20.  (21/04/2020)
+ -----------------------------------------------------------------------------------------
+  Copyright © 2009 - 2020   Nebojša Vučinić - Trebinje
+
+ ------------------------------------------------------------------------------------------
+SHA-1: EFFD59DEA080604B4021AAC7600A91D7A7126871
+-------------------------------------------------------------------------------------------
+
+  url:  http://genuine-iso-verifier.weebly.com/
+
+ ---------------------
+  Requirements:
+ ---------------------
+   Microsoft .NET Framework 4.0 Client Profile
+
+ -----------------------------------------------------------
+  Supported Operating Systems  (x32, x64):
+ -----------------------------------------------------------
+   Microsoft Windows XP SP2 or SP3
+   Microsoft Windows Server 2003
+   Microsoft Windows Vista
+   Microsoft Windows Server 2008; Windows Server 2008 R2
+   Microsoft Windows 7
+   Microsoft Windows 8
+   Microsoft Windows Server 2012; Windows Server 2012 R2
+   Microsoft Windows Server 2016;
+   Microsoft Windows 8.1
+   Microsoft Windows 8.1 With update
+   Microsoft Windows 10
+
+  The program allows verification of Windows and Office x32 x64 (ISO, EXE ...).
+  Finds ISO hash and compares it with the official hash (MSDN, VLSC).
+  The program is free.
+  No need to install, just run the application.
+
+ ----------------------------------------------------------------------------------------
+  Supported OS's and Office (MSDN, VLSC...) - Includes x32, x64:
+ ----------------------------------------------------------------------------------------
+Added 21.04.2020:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1809, 1903, 1909 (Updated April 2020):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows 10 Server 2019, 1909 (x64) (Updated April 2020):
+  Languages  (English, Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Dutch, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Spanish, Swedish, Turkish).
+
+--------------------------------------------------------------------------------------------------------
+
+Added 25.03.2020:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1809, 1903, 1909 (Updated March 2020):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows 10 Server 2019, 1909 (x64) (Updated March 2020):
+  Languages  (English, Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Dutch, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Spanish, Swedish, Turkish).
+
+--------------------------------------------------------------------------------------------------------
+
+Added 02.04.2020:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1809, 1903, 1909 (Updated Feb 2020):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows 10 Server, 1903, 2019, 1909 (x64) (Updated Feb 2020):
+  Languages  (English, Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Dutch, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Spanish, Swedish, Turkish).
+
+--------------------------------------------------------------------------------------------------------
+
+Added 21.01.2020:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1809, 1903, 1909 (Updated Jan 2020):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows 10 Server, 1903, 2019, 1909 (x64) (Updated Jan 2020):
+  Languages  (English, Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Dutch, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Spanish, Swedish, Turkish).
+
+--------------------------------------------------------------------------------------------------------
+
+Added 17.12.2019:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1809, 1903, 1909 (Updated Dec 2019):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows 10 Server, 1903, 2019, 1909 (x64) (Updated Dec 2019):
+  Languages  (English, Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Dutch, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Spanish, Swedish, Turkish).
+
+
+Added 19.11.2019:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1809, 1903 (Updated Nov 2019):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows 10 Server, 1903, 2019 (x64) (Updated Nov 2019):
+  Languages  (English, Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Dutch, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Spanish, Swedish, Turkish).
+
+
+Added 16.10.2019:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1909 (Updated Oct 2019):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows 10 Server, 1909 (x64) (Updated Oct 2019):
+  Languages  (English, Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Dutch, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Spanish, Swedish, Turkish).
+
+Added 18.09.2019:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1803, 1809, 1903 (Updated Sep 2019):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows 10 Server, Version 2019 & 1903 (x64) (Updated Sept 2019):
+  Languages  (English, Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Dutch, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Spanish, Swedish, Turkish).
+
+Added 21.08.2019:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1803, 1809, 1903 (Updated Aug 2019):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows 10 Server, Version 2019 & 1903 (x64) (Updated Aug 2019):
+  Languages  (English, Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Dutch, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Spanish, Swedish, Turkish).
+
+Added 16.07.2019:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1803, 1809, 1903 (Updated July 2019):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+Added 19.06.2019:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1803, 1809, 1903 (Updated June 2019):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+Added 27.05.2019:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1803, 1809 (Updated May 2019):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1903:
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1803, 1809 (Updated Apr 2019):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1803, 1809 (Updated Mar 2019):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows 10 Server, Version 2019 (x64) (Updated Mar 2019):
+  Languages  (English, Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Dutch, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Spanish, Swedish, Turkish).
+
+Added 20.02.2019:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1809 RS5 (Updated Feb 2019):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+Added 15.01.2019:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1809 RS5 (Updated Jan 2019):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+
+Added 19.12.2018:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1809 RS5 (Updated Dec 2018):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+Added 13.11.2018:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1809 RS5 (Updated Oct 2018):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows 10 Server, Version 2019 (x64) (Updated Oct 2018):
+  Languages  (English, Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Dutch, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Spanish, Swedish, Turkish).
+
+Added 02.10.2018:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1809 RS5 (Updated Sep 2018):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All editions of Office 2019 RTM (MSDN) and VL (VLSC) - Languages  (English,
+  Arabic, Bulgarian, Chinese-Simplified, Chinese-Traditional, Czech,  Croatian, Danish, Dutch,
+  Finnish, French, Estonian, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Kazakh, Malay, Norwegian, Polish, Portuguese-Brazil,
+  Portuguese-Portugal, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, Turkish,
+  Ukrainian, Vietnamese).
+
+All edition of: 
+Windows 10 Server, Version 1809 (x64):
+  Languages  (English, Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Dutch, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Spanish, Swedish, Turkish).
+
+Added 19.09.2018:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1803 (Updated Sep 2018):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+Added 22.08.2018:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1803 (Updated Aug 2018):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+Added 11.07.2018:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1803 (Updated Jul 2018):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+Added 08.05.2018:
+
+All edition of: 
+Windows 10 Server, Version 1803 (x64):
+  Languages  (English, Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Dutch, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Spanish, Swedish, Turkish).
+
+Added 30.04.2018:
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1803 (Updated Mar 2018):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+- Add the Program to Context Menu (Enable / Disable)
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+Added 19.01.2018:
+
+All edition of: 
+Windows Server MSDN & VL, Version 1709 (Updated Jan 2018):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows 10 (multi-edition) MSDN & VL, Version 1709 (Updated Dec 2017):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows 10 (multi-edition), Version 1709 (Updated Nov 2017):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+- Check SHA-1 for Windows and Office 
+----------------------------------------------------------------------------------------------------------
+All edition of: 
+Windows 10 (multi-edition) VL, Version 1709 (Updated Sept 2017):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows 10 (multi-edition), Version 1709 (Updated Sept 2017):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of: 
+Windows Server, version 1709:
+ Languages  (English,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,
+ Dutch, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese-Brazil,
+ Portuguese-Portugal, Russian, Spanish, Swedish, Turkish).
+
+All edition of Windows 10, Version 1709 (Updated Sept 2017) - ESD: 
+
+All edition of:
+
+Windows 10 Version 1703 RS2 - MSDN (Updated July 2017):
+    Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+Windows 10 Version 1703 RS2 - VLSC (Updated July 2017):
+    Languages  (English, Russian...).
+-----------------------------------------------------------------------------------------------------------
+All edition of:
+
+Windows 10 Version 1703 RS2 - MSDN (Updated June 2017):
+    Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of:
+
+Windows 10 Version 1703 RS2 - VLSC (Updated March 2017):
+    Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of:
+
+Windows 10 Version 1703 RS2 - MSDN (Updated March 2017):
+    Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of:
+
+Windows 10 Version 1703 ESD RS2 Relase 15063.0.170317-1834
+ Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All editions of  Windows 10 Version 1607 RS1 - VLSC (Updated Jan 26.01.2017):
+    Languages  (English, Russian).
+
+All editions of  Windows 10 Enterprise Version 1607 RS1 - MSDN (Updated Jan 19.01.2017):
+    Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All edition of:
+Windows 10 Version 1607 ESD RS1 RTM Refresh Jan 2017 14393.0.161119-1705
+Windows 10 Version 1607 ESD RS1 RTM Relase 14393.0.160715-1616
+ Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+---------------------------------------------------------------------------------------------------------
+ Checking the ESD files implied verification before converting the ESD file to ISO file.
+---------------------------------------------------------------------------------------------------------
+
+All editions of Windows Server 2016 (x64) - Release Date: 12/01/2017 - Languages  (English,
+  Chinese - Simplified, Chinese - Traditional, Czech, Dutch, French, German, Hungarian, Italian, 
+  Japanese, Korean, Polish, Portuguese-Brazil, Portuguese-Portugal, Russian, Spanish, Swedish, Turkish.).
+
+All editions of Windows Server 2016 (x64) - Languages  (English,
+  Chinese - Simplified, Chinese - Traditional, Czech, Dutch, French, German, Hungarian, Italian, 
+  Japanese, Korean, Polish, Portuguese-Brazil, Portuguese-Portugal, Russian, Spanish, Swedish, Turkish.).
+
+All editions of Windows 10 Enterprise Version 1607 RS1 - LTSB (Updated Jul 2016):
+    Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All editions of  Windows 10 Version 1607 RS1 - MSDN (Updated Jul 2016):
+    Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All editions of  Windows 10 Version 1607 RS1 - VLSC (Updated Jul 2016):
+    Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All editions of  Windows 10 Version 1511 - VLSC (Updated Apr 2016):
+   Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+All editions of  Windows 10 Version 1511 - MSDN (Updated Apr 2016):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+  All editions of  Windows 10 Version 1511 - MSDN (Updated Feb 2016):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+  
+  All editions of  Windows 10 Version 1511 - VLSC (Updated Feb 2016):
+  Languages  (English, Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, 
+  Turkish, Ukrainian).
+
+  All editions of  Windows 10 - Version 1511 - Languages  (English, Arabic,
+  Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  Czech, Croatian,
+  Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-
+  Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak,
+  Slovenian,  Swedish, Thai, Turkish, Ukrainian).
+
+  All editions of  Windows 10 VL  (VLSC) - Version 1511 - Languages  (English,
+  Arabic, Bulgarian,  Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  Czech,
+  Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian,
+  Italian, Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish,
+  Portuguese-Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian,
+  Slovak, Slovenian,  Swedish, Thai, Turkish, Ukrainian).
+
+  All editions of Office 2016 RTM (MSDN) and VL (VLSC) - Languages  (English,
+  Arabic, Bulgarian, Chinese-Simplified, Chinese-Traditional, Czech,  Croatian, Danish, Dutch,
+  Finnish, French, Estonian, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Kazakh, Malay, Norwegian, Polish, Portuguese-Brazil,
+  Portuguese-Portugal, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, Turkish,
+  Ukrainian, Vietnamese).
+
+  All editions of  Windows 10 - Languages  (English, Arabic, Bulgarian,  Chinese -
+  Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  Czech, Croatian, Danish, Dutch,
+  Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian, Latvian, Lithuanian,
+ Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-Brazil,
+  Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish,
+  Thai, Turkish, Ukrainian).
+
+  All editions of Office 2013 RTM (MSDN) and VL (VLSC) - Languages  (English, Arabic, Bulgarian,
+  Chinese-Simplified, Chinese-Traditional, Czech,  Croatian, Danish, Dutch, Finnish, French,
+  Estonian, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian, Latvian, Lithuanian,
+ Japanese, Korean, Kazakh, Malay, Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal,
+  Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, Turkish, Ukrainian,
+  Vietnamese).
+
+  All editions of  Windows 8 - Languages  (English, Arabic, Bulgarian,  Chinese -
+  Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  Czech, Croatian, Danish, Dutch,
+  Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian, Latvian, Lithuanian,
+ Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-Brazil,
+  Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish,
+  Thai, Turkish, Ukrainian).
+
+  All editions of  Windows 8.1 - Languages  (English, Arabic, Bulgarian,  Chinese -
+  Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  Czech, Croatian, Danish, Dutch,
+  Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian, Latvian, Lithuanian,
+ Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-Brazil,
+  Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish,
+  Thai, Turkish, Ukrainian).
+
+  All editions of Windows 8.1 with Update
+  (Release Date: 04/08/2014 and 12/15/2014) - Languages  (English, Arabic,
+  Bulgarian, Chinese-Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  Czech, Croatian,
+  Danish, Dutch, Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian,
+  Latvian, Lithuanian, Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish,
+  Portuguese-Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak,
+  Slovenian,  Swedish, Thai, Turkish, Ukrainian).
+
+  All editions of Office 2010 RTM (MSDN) and VL (VLSC) - Languages  (English, Arabic, Bulgarian,
+  Basque, Traditional Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Traditional, Czech,
+  Catalan, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek, Gujarati,
+  Galician, Hebrew, Hindi, Hungarian, Italian, Indonesian,  Latvian, Lithuanian, Japanese,
+  Korean, Konkani, Kazakh, Marathi, Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal,
+  Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish, Thai, Turkish, Ukrainian).
+
+  All editions of  Windows 7 - Languages  (English, Arabic, Bulgarian,  Chinese -
+  Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  Czech, Croatian, Danish, Dutch,
+  Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian, Latvian, Lithuanian,
+ Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-Brazil,
+  Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish,
+  Thai, Turkish, Ukrainian).
+
+  All editions of Office 2007 RTM (MSDN) - Languages  (English, Arabic, Bulgarian,
+  Traditional Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan, Chinese-Traditional,
+  Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek, Hebrew,
+  Hungarian, Italian, Latvian, Lithuanian, Japanese, Korean, Kazakh, Norwegian, Polish,
+  Portuguese-Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak,
+  Slovenian, Swedish, Thai, Turkish, Ukrainian).
+
+  All editions of  Windows XP - Languages  (English, Arabic, Chinese-Hong Kong SAR,
+  Chinese-Simplified, Chinese-Taiwan, Chinese-Traditional, Czech, Danish, Dutch, Finnish,
+  French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Multi-Language,
+  Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Russian, Spanish, Swedish,
+  Turkish).
+
+  All editions of Office 2003 RTM (MSDN) - Languages  (English, Arabic, Bulgarian,
+  Traditional Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan, Chinese-Traditional,
+  Czech, Catalan, Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek, Hebrew,
+  Hindi, Hungarian, Italian, Indonesian,  Latvian, Lithuanian, Japanese, Korean, Malay,
+  Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Russian, Romanian, Spanish,
+  Serbian, Slovak, Slovenian,  Swedish, Thai, Turkish, Ukrainian, Urdu, Vietnamese).
+
+  All editions of  Windows Vista - Languages  (English, Arabic, Bulgarian,  Chinese -
+  Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,  Czech, Croatian, Danish, Dutch,
+  Finnish, French, Estonian, German, Greek,  Hebrew,  Hungarian, Italian, Latvian, Lithuanian,
+ Japanese, Korean, Norwegian-Bokmal, Norwegian, Polish, Portuguese-Brazil,
+  Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak, Slovenian,  Swedish,
+  Thai, Turkish, Ukrainian).
+
+  All editions of Office 95 RTM (MSDN) - Languages  (English, Japanese).
+
+  All editions of Windows Server 2012 Essentials - Languages  (English,
+  Chinese-Hong Kong SAR, Chinese-Taiwan, Chinese-Simplifield, Czech, Dutch, French, German,
+  Hungarian, Italian, Japanese, Korean, Polish, Portuguese-Brazil, Portuguese-Portugal,
+  Russian, Spanish, Swedish, Turkish).
+
+  All editions of Windows Server 2012 R2 Essentials - Languages  (English,
+  Chinese-Hong Kong SAR, Chinese-Taiwan, Chinese-Simplifield, Czech, Dutch, French, German,
+  Hungarian, Italian, Japanese, Korean, Polish, Portuguese-Brazil, Portuguese-Portugal,
+  Russian, Spanish, Swedish, Turkish).
+
+  All editions of Windows Server 2012 Essentials with Update - Languages
+  (English, Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan, , Czech, Dutch,
+  French, German,  Hungarian, Italian, Japanese, Korean, Polish, Portuguese-Brazil,
+  Portuguese-Portugal, Russian, Spanish, Swedish, Turkish).
+
+  All editions of Windows Server 2012 R2 Essentials with Update - Language
+  (English, Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan, , Czech, Dutch,
+  French, German,  Hungarian, Italian, Japanese, Korean, Polish, Portuguese-Brazil,
+  Portuguese-Portugal, Russian, Spanish, Swedish, Turkish).
+
+  All editions of Windows  Server 2012 R2 - Languages  (English, Arabic,
+  Bulgarian, Traditional Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan, Czech,
+  Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek, Hebrew, Hungarian,
+  Italian, Latvian, Lithuanian, Japanese, Korean, Multi-Language, Norwegian, Polish,
+  Portuguese-Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak,
+  Slovenian,  Swedish, Thai, Turkish, Ukrainian).
+
+  All editions of Windows Server 2012 R2 with Update - Languages  (English, Arabic,
+  Bulgarian, Traditional Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan, Czech,
+  Croatian, Danish, Dutch, Finnish, French, Estonian, German, Greek, Hebrew, Hungarian,
+  Italian, Latvian, Lithuanian, Japanese, Korean, Multi-Language, Norwegian, Polish,
+  Portuguese-Brazil, Portuguese-Portugal, Russian, Romanian, Spanish, Serbian, Slovak,
+  Slovenian,  Swedish, Thai, Turkish, Ukrainian).
+
+  All editions of Windows Home Server 2011 - Languages  (English, Chinese-
+  Hong Kong SAR, Chinese-Taiwan, Czech, Danish, Dutch, French, German,  Hungarian,
+  Italian, Japanese, Korean, Polish, Portuguese-Brazil, Portuguese-Portugal, Russian,
+  Spanish, Swedish, Turkish).
+
+  All editions of Windows Server 2008 R2 - Languages  (English, Arabic, Bulgarian,
+  Traditional Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,
+  Chinese-Traditional, Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German,
+  Greek, Hebrew, Hungarian, Italian, Latvian, Lithuanian, Japanese, Korean, Multi-Language,
+  Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Russian, Romanian, Spanish,
+  Serbian, Slovak, Slovenian,  Swedish, Thai, Turkish, Ukrainian).
+
+  All editions of Windows Server 2008 - Languages  (English, Arabic, Bulgarian,
+  Traditional Chinese - Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan,
+  Chinese-Traditional, Czech, Croatian, Danish, Dutch, Finnish, French, Estonian, German,
+  Greek, Hebrew, Hungarian, Italian, Latvian, Lithuanian, Japanese, Korean, Multi-Language,
+  Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Russian, Romanian, Spanish,
+  Serbian, Slovak, Slovenian,  Swedish, Thai, Turkish, Ukrainian).
+
+  All editions of Windows Server 2003 R2 - Languages  (English, Arabic,
+  Chinese - Hong Kong SAR, Chinese-Simplified,  Chinese-Traditional, Czech, Danish, Dutch,
+  Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Multi-
+  Language, Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Russian, Spanish,
+  Swedish, Turkish).
+
+  All editions of Windows Server 2003 - Languages  (English, Arabic,
+  Chinese - Hong Kong SAR, Chinese-Simplified,  Chinese-Traditional, Czech, Danish, Dutch,
+  Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Multi-
+  Language, Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Russian, Spanish,
+  Swedish, Turkish).
+
+  All editions of Windows Advanced Server - Languages  (English, Japanese).
+
+  All editions of Windows Essential Business Server 2008 - Languages
+  (English, Japanese, Chinese-Simplified, Chinese-Traditional, Dutch, French, German,
+  Hungarian, Italian, Korean, Portuguese-Brazil, Russian, Spanish, Turkish).
+
+  All editions of Windows Home Server - Languages  (English, Japanese, Chinese-
+  Simplified, Chinese-Taiwan, Chinese-Traditional, French, German, Spanish).
+
+  All editions of Windows Server Technical Preview - Language  (English).
+
+  All editions of Windows Small Business Server 2008 - Languages  (English,
+  Chinese-Traditional, Chinese-Taiwan, Czech, Dutch, French, German,  Hungarian, Italian,
+  Japanese, Korean, Polish, Portuguese-Brazil, Portuguese-Portugal, Russian, Spanish,
+  Swedish, Turkish).
+
+  All editions of Windows Small Business Server 2011 - Languages  (English,
+  Chinese-Hong Kong SAR, Chinese-Taiwan, Chinese-Simplified , Czech, Dutch, French, German,
+  Hungarian, Italian, Japanese, Korean, Polish, Portuguese-Brazil, Portuguese-Portugal,
+  Russian, Spanish, Swedish, Turkish).
+
+  All editions of Windows Storage Server 2008 - Languages  (English, Chinese-
+  Hong Kong SAR, Chinese-Taiwan, Chinese-Simplified , Czech, Dutch, French, German,
+  Hungarian, Italian, Japanese, Korean, Polish, Portuguese-Brazil, Portuguese-Portugal,
+  Russian, Spanish, Swedish, Turkish).
+
+  All editions of Windows Storage Server 2008 R2 - Languages  (English,
+  Chinese-Hong Kong SAR, Chinese-Taiwan, Chinese-Simplified , Czech, Dutch, French, German,
+  Hungarian, Italian, Japanese, Korean, Polish, Portuguese-Brazil, Portuguese-Portugal,
+  Russian, Spanish, Swedish, Turkish).
+
+  All editions of Windows Technical Preview - Languages  (English, Arabic,
+  Chinese-Simplified, Chinese-Taiwan, Czech, Catalan, Dutch, Finnish, French, German,
+  Hindi, Italian, Japanese, Korean,  Polish, Portuguese-Brazil,  Russian, Spanish, Swedish,
+  Thai, Turkish, Vietnamese).
+
+  All editions of Windows Thin PC - Language  (English).
+
+  All editions of  Windows Server Technical Preview 2 - Language  (English).
+
+
+License
+=======
+
+This utility is released as freeware. You are allowed to freely
+distribute this utility via floppy disk, CD-ROM, Internet, or in any
+other way, as long as you don't charge anything for this and you don't
+sell it or distribute it as a part of commercial product. If you
+distribute this utility, you must include all files in the distribution
+package, without any modification !
